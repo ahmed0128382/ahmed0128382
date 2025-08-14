@@ -20,12 +20,11 @@ My passion lies in crafting apps that are **fast, reliable, and user-focused**.
 
 **Languages & Frameworks**
 - Dart | Flutter  
-- HTML | CSS | JavaScript
 
 **Tools & Platforms**
 - Firebase | Supabase | Git & GitHub  
 - REST APIs | JSON | Postman  
-- Figma | Adobe XD (UI/UX Design)
+
 
 **Architectures & Patterns**
 - Clean Architecture | Domain-Driven Design  
